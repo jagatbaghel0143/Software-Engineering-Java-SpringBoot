@@ -1,4 +1,6 @@
-public class Root {
+import test.TestTest;
+
+public class Root extends TestTest {
     private String priRoot;
     public String pubRoot;
 
