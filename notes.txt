@@ -1,0 +1,46 @@
+clean & compile
+
+packages in java
+import in java
+What are class level annoatations and method level annoatations?
+List the annoatations which you have used in your project.
+
+
+------------------------------------------------------------
+protected default examples
+how to raise PR(Pull Request)?
+how to remove a file from git tracking?
+
+-------------------------------------------------------------
+Java -> Classes, Objects, Constructors, types of constructors
+What is JDK and its components?
+Full Forms of JDK, JRE, JVM
+Is JDK platform dependent or not?
+Is Java platform dependent or not?
+
+------------------------------
+05/05/2026
+
+Why constructors? -> to initialize the object or to create object
+what is virtual machine?
+What is the static keyword in Java?
+
+//class
+public class ClassName {
+
+}
+
+//method or function
+public static or Non-Static Return type Method Name () {
+
+}
+e.g.
+public String getName() {
+
+}
+
+//variable
+public String or int or boolean variableName;
+
+Q. Explore Data Types in Java.
+Q. What is concatenation in Java?

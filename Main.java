@@ -2,7 +2,11 @@ import test.UseRoot;
 
 public class Main {
 
+    public String name;
+    public int rollNo;
+
     public static void main(String[] args) {
+        String name;
         Root root = new Root();
         root.setRoot("Java");
         System.out.println(root.getRoot());
