@@ -21,5 +21,10 @@ public class Main {
         //
         // JDK -> Platform Dependent
         // JRE+JVM -> 
+
+        // FormulaOneCar Specifications
+        System.out.println("\nFormula One Car Specifications:");
+        FormulaOneCar car1 = new FormulaOneCar("15000 RPM", "100 Litres", "Soft", "1000 HP", "350 km/h");
+        car1.toString();
     }
 }

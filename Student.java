@@ -23,9 +23,9 @@ public class Student {
 
     public String toString() {
         System.out.println("Name: " + studentName);
-        System.out.println("Name: " + studentAge);
-        System.out.println("Name: " + studentDOB);
-        System.out.println("Name: " + studentMobileNo);
+        System.out.println("Age: " + studentAge);
+        System.out.println("Date of Birth: " + studentDOB);
+        System.out.println("Mobile Number: " + studentMobileNo);
         return "";
     }
 }
